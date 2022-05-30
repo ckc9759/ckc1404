@@ -1,22 +1,20 @@
 <div id="header" align="center">
- <img src="https://media.giphy.com/media/PiWfijeEeJEI0uB7j6/giphy.gif" width="100" height="90"/>
- <img src="https://media.giphy.com/media/q8f30WctNGPFC/giphy-downsized-large.gif" width="100" height="90"/>
- <img src="https://media.giphy.com/media/PiWfijeEeJEI0uB7j6/giphy.gif" width="100" height="90"/>
+ <img src="https://github.com/ckc1404/Miscellanious/blob/main/CKC/C2.jpg" width="100" height="90"/>
+ <img src="https://github.com/ckc1404/Miscellanious/blob/main/CKC/K2.jpg" width="100" height="90"/>
+ <img src="https://github.com/ckc1404/Miscellanious/blob/main/CKC/C2.jpg" width="100" height="90"/>
 </div>
+  
+  
+  
+  
+### Hi there 👋  
+I am Chaitanya Krishna Chauhan. (CKC)
 
-
-### Hi there 👋
-<!--
-**ckc1404/ckc1404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Game Developement, CyberSecurity and sometimes competitive coding.
+- 🌱 I’m currently learning Binary Exploitation and Digital Forensics.
+- 👯 I’m looking to collaborate on Blockchain Technology and CyberSecurity field projects.
+- 🤔 I’m looking for help with Cybersecurity primarily.
+- 💬 Ask me about CTFs, Blender, C++.
+- 📫 How to reach me: My linkedin Profile: https://www.linkedin.com/in/chaitanya-krishna-chauhan-58a87b226/
+- 😄 Pronouns: CKC
+- ⚡ Fun fact: I like gaming, experimenting, sports and CTFs.
