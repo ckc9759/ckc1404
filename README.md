@@ -5,8 +5,6 @@
 </div>
   
   
-  
-  
 ### Hi there 👋  
 I am Chaitanya Krishna Chauhan. (CKC)
 
