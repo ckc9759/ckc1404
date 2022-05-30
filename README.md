@@ -24,8 +24,8 @@ I am Chaitanya Krishna Chauhan. (CKC)
 ### 🤔 I’m looking for help with Cybersecurity primarily.
 - 💬 Ask me about CTFs, Blender, C++.
 - 📫 How to reach me: My linkedin Profile: https://www.linkedin.com/in/chaitanya-krishna-chauhan-58a87b226/
+### ⚡ Fun fact: I like gaming, experimenting, sports and CTFs.
 - 😄 Pronouns: CKC
-- ⚡ Fun fact: I like gaming, experimenting, sports and CTFs.
 
 
   
