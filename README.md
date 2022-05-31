@@ -51,8 +51,6 @@ I am Chaitanya Krishna Chauhan. (CKC)
 
 ### :fire: My Stats :  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ckc1404&theme=dark&background=000000)](https://git.io/streak-stats)  
-
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ckc1404&theme=dark&background=000000&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ckc's Github Stats" /></a>
   
   
