@@ -3,7 +3,6 @@
  <img src="https://github.com/ckc1404/Miscellanious/blob/main/CKC/K2.jpg" width="100" height="90"/>
  <img src="https://github.com/ckc1404/Miscellanious/blob/main/CKC/C2.jpg" width="100" height="90"/>
 </div>
- 
   
 ### Hi there 👋  
 I am Chaitanya Krishna Chauhan. (CKC)
@@ -49,8 +48,10 @@ I am Chaitanya Krishna Chauhan. (CKC)
 
 ### :fire: My Stats :  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ckc1404&theme=dark&background=000000)](https://git.io/streak-stats)  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=ckc1404&theme=dark&background=000000&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ckc's Github Stats" /></a>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckc1404&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
