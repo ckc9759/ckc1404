@@ -20,7 +20,10 @@ I am Chaitanya Krishna Chauhan. (CKC)
 - GameDev Roles. (Blender and Animation)
 ### 🤔 I’m looking for help with Cybersecurity primarily.
 - 💬 Ask me about CTFs, Blender, C++.
-- 📫 How to reach me: My linkedin Profile: [LinkedIn](https://www.linkedin.com/in/chaitanya-krishna-chauhan-58a87b226/)
+- 📫 How to reach me: 
+  - [LinkedIn](https://www.linkedin.com/in/chaitanya-krishna-chauhan-58a87b226/)
+  - [Instagram](https://www.instagram.com/ckc9759/)
+  - [discord](https://discordapp.com/users/760729961119481887)
 ### ⚡ Fun fact: I like gaming, experimenting, sports and CTFs.
 - 😄 Pronouns: He / Him
 
