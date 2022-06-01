@@ -7,7 +7,7 @@ I am Chaitanya Krishna Chauhan. (CKC)
 
 ### 🔭  I’m currently working on:
   - Game Developement
-  -  CyberSecurity
+  -  CyberSecurity <a>   <img src="https://media.giphy.com/media/2i7jspnRBYgg6v4Oki/giphy.gif" align="center" width="30" height="18">   </a>
   -   Competitive Coding.
 ### 🌱 I’m currently learning:
   - Binary Exploitation.
