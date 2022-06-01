@@ -2,8 +2,9 @@
 <a>
   <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="200" height="80"/>&nbsp;
  </a>
-
-## I am Chaitanya Krishna Chauhan. (CKC)  
+ 
+**I am Chaitanya Krishna Chauhan**   
+**I am in my 2nd year, pursuing Mechanical Engineering in BITS Pilani.**
 
   
 ### 🔭  I’m currently working on:
