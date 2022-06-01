@@ -24,13 +24,16 @@
 
 ### 🤔 I’m looking for help with Cybersecurity primarily.
 - 💬 Ask me about CTFs, Blender, C++.
-- 📫 How to reach me: 
-  - [LinkedIn](https://www.linkedin.com/in/chaitanya-krishna-chauhan-58a87b226/)
-  - [Instagram](https://www.instagram.com/ckc9759/)
-  - [discord](https://discordapp.com/users/760729961119481887)
-
 ### ⚡ Fun fact: I like gaming, experimenting, sports and CTFs.
 - 😄 Pronouns: He / Him
+
+#### 📫 Feel free to reach out for any exciting projects, internship opportunities or anything else you'd want to chat about. 
+   [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chaitanya-krishna-chauhan-58a87b226/)
+   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/view=cm&fs=1&tf=1&to=f20201869@pilani.bits-pilani.ac.in)
+   [![Instagram](https://img.shields.io/badge/instagram-fb3958?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ckc9759/)
+   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/760729961119481887)
+   <!-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dmahajan980) -->
+
 
 
   
