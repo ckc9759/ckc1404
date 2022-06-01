@@ -3,8 +3,9 @@
   <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="200" height="80"/>&nbsp;
  </a>
 
-I am Chaitanya Krishna Chauhan. (CKC)  
+## I am Chaitanya Krishna Chauhan. (CKC)  
 
+  
 ### 🔭  I’m currently working on:
   - <a>   <img src="https://media.giphy.com/media/dkUtjuBEdICST5zG7p/giphy.gif" align="center" width="110" height="70">   </a> <div>Game Developement</div>&nbsp;
   - <a>   <img src="https://media.giphy.com/media/2i7jspnRBYgg6v4Oki/giphy.gif" align="center" width="110" height="70">   </a> <div>CyberSecurity</div>&nbsp;
