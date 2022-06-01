@@ -55,7 +55,7 @@
 
 ### :fire: My Stats :  
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ckc1404&theme=dark&background=000000&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ckc's Github Stats" /></a>&nbsp;
+[![Chaitanya's github stats](https://github-readme-stats.vercel.app/api?username=ckc1404&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   
   
   
