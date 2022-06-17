@@ -1,4 +1,4 @@
-# Hi there 👋  
+# Hi there ![](wave.gif)
 <a>
   <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="200" height="80"/>&nbsp;
  </a>
@@ -32,11 +32,11 @@
    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/view=cm&fs=1&tf=1&to=f20201869@pilani.bits-pilani.ac.in)
    [![Instagram](https://img.shields.io/badge/instagram-fb3958?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ckc9759/)
    [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/760729961119481887)
-   <!-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dmahajan980) -->
+   <!-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dmahajan980) -->  
+---
 
+<a href="https://github.com/ckc1404/github-readme-activity-graph"><img alt="Chaitanya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ckc1404&bg_color=0D1117&color=add8e6&line=0000ff&point=add8e6&hide_border=true" /></a>
 
-
-  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :  
@@ -66,5 +66,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckc1404&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+### :fire: Thank You
 
