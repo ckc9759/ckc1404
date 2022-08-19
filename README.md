@@ -11,9 +11,9 @@
   - <a>   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="center" width="110" height="70">   </a> <div>Competitive Coding</div>&nbsp;  
 
 ### 🌱 I’m currently learning:
-  - Binary Exploitation.
-  - Digital Forensics.
-  - Dynamic Programming and Advanced algorithms
+  - Binary Exploitation. (PWN and REV)
+  - Digital Forensics. (STEGO and OSINT)
+  - Dynamic Programming and Advanced algorithms (Graphs and Trees)
 
 ### 👯 I’m looking to collaborate on:
 - Any Real life project for experience. 
