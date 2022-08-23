@@ -17,7 +17,7 @@
 
 ### 👯 I’m looking to collaborate on:
 - Any Real life project for experience. 
-- Interests- Blockchain Technology and CyberSecurity field projects.
+- Interests - CyberSecurity field projects and Reverse Engineering.
 - GameDev Roles. (Blender and Animation)
 
 ### 🤔 I’m looking for help with Cybersecurity primarily.
