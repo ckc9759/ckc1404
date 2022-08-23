@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=0BF700&lines=My+name+is+Chaitanya+Krishna+Chauhan!;A.K.A+ckc9759;I+am+in+my+2nd+year!;Mech,+BITS+Pilani)](https://git.io/typing-svg)
   
 ### 🔭  I’m currently working on:
-  - <a>   <img src="https://media.giphy.com/media/dkUtjuBEdICST5zG7p/giphy.gif" align="center" width="110" height="70">   </a> <div>Game Developement</div>&nbsp;
+<!--  - <a>   <img src="https://media.giphy.com/media/dkUtjuBEdICST5zG7p/giphy.gif" align="center" width="110" height="70">   </a> <div>Game Developement</div>&nbsp;-->
   - <a>   <img src="https://media.giphy.com/media/2i7jspnRBYgg6v4Oki/giphy.gif" align="center" width="110" height="70">   </a> <div>CyberSecurity</div>&nbsp;
   - <a>   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="center" width="110" height="70">   </a> <div>Competitive Coding</div>&nbsp;  
 
