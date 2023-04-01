@@ -66,5 +66,5 @@
 ### :fire: Thank You   
 ![wink.gif](wink.gif)
 
-<!--<First name> + <Codename without numbers> Did u know that ??? Link them and u get a new LINKED account -->
+<!--<First name> + " " + <Codename without numbers> Did u know that ??? Link them and u get a new LINKED account -->
 
